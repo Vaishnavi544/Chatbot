@@ -1,5 +1,6 @@
 # Chatbot
 This is a simple chatbot application created using Python and the `tkinter` library. The chatbot can respond to basic greetings and questions. It serves as an example of how to create a basic GUI application with a chatbot feature.
+![Screenshot 2024-07-12 230528](https://github.com/user-attachments/assets/54007b62-22ca-4da5-88c9-f3365ce392ff)
 
 ## Features
 
