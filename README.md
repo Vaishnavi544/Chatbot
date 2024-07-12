@@ -69,5 +69,3 @@ This block of code creates the main window and runs the application.
 3. **Receive a response**: The chatbot will respond with a predefined message based on the input.
 
 
-```
-
